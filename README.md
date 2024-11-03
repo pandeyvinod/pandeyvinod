@@ -36,3 +36,6 @@ Hi, I'm Vinod. you may recognized us as hacker
 |     1|      AWS         |
 |     2|      Cloud   |
 |     3|      Linux         |
+|     4|      Terraform  |
+|     5|      Jenkins |
+|     6|      Kubernetes|
